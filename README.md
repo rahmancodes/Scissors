@@ -2,8 +2,6 @@
 
 React App to make use of the URL Link Shortner API from earlier repo. https://github.com/akinmaurice/urlShortner
 
-
-
 1. Post Request with the url as a body sent to the API.
 2. API checks if the URL has been encoded previously.
 3. If the Url exists already, the ID is encoded and sent as a response.
